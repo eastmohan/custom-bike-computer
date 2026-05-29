@@ -1,0 +1,3 @@
+https://www.snapeda.com/parts/AP2112K-3.3TRG1/Diodes%20Inc./view-part/
+https://www.snapeda.com/parts/ESP32-S3-DEVKITC-1-N16R8V/Espressif%20Systems/view-part/
+https://cadlab.io/project/25640/master/files/Symbols/Library.kicad_sym
